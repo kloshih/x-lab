@@ -1,0 +1,4 @@
+# secrets — never commit
+nkeys/
+*.nk
+secret.env
